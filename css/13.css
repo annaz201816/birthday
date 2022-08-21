@@ -34,3 +34,9 @@ main{
     font-size: 40px;
     text-shadow: 10px 10px 30px black;
 }
+
+.img1{
+    margin-left: 600px;
+    margin-top: -758px;
+    position: absolute;
+}
