@@ -22,3 +22,14 @@ main{
     border-color: rgba(0, 0, 0, 0.614);
 
 }
+.text{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(185, 84, 85);
+    margin-top: 200px;
+    font-size: 50px;
+}
+
+#paragraph{
+    font-size: 40px;
+    text-shadow: 10px 10px 30px black;
+}
